@@ -1,0 +1,14 @@
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/bin/Debug/net8.0/ProvaPOO2
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/bin/Debug/net8.0/ProvaPOO2.deps.json
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/bin/Debug/net8.0/ProvaPOO2.runtimeconfig.json
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/bin/Debug/net8.0/ProvaPOO2.dll
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/bin/Debug/net8.0/ProvaPOO2.pdb
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.AssemblyInfoInputs.cache
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.AssemblyInfo.cs
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.dll
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/refint/ProvaPOO2.dll
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.pdb
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ProvaPOO2.genruntimeconfig.cache
+/home/aluno/Documentos/LuanTreuke/ProvaPOO2/obj/Debug/net8.0/ref/ProvaPOO2.dll
